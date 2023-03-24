@@ -1,0 +1,42 @@
+body {
+    background-color: #444848;
+    color: #ffb6c1;
+    height: 100%;
+  }
+  
+  section {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  
+  img {
+    border-radius: 5px;
+  }
+  
+  .content {
+    margin: 30px 0px;
+  }
+  
+  button {
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .primary {
+    background-color: rgb(8, 168, 158);
+  }
+  
+  .secondary {
+    background-color: #9f4444;
+    color: #000000;
+  }
+  
+  input {
+    border: none;
+    padding: 15px 2px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
